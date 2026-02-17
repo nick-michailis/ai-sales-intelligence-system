@@ -171,14 +171,6 @@ Example of the final CRM dashboard entry containing:
 
 ---
 
-# 📦 Repo Assets (Upload Overview)
-
-Screenshot showing the uploaded demo assets and filenames in GitHub.
-
-<img width="1000" src="b9b71489-360c-4826-8ccf-1b8cd0ca0e21.png" />
-
----
-
 # 💼 Business Impact
 
 - **Faster response times** for inbound leads (no manual triage)
